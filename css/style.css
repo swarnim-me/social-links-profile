@@ -39,7 +39,7 @@ main {
 
 .name {
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 600;
     margin: 10px 0;
     font-family: Inter;
 }
@@ -74,7 +74,7 @@ main {
 .links-wrapper>a {
     background: var(--clr-grey);
     color: white;
-    padding: 14px 0;
+    padding: 12px 0;
     font-weight: 600;
     border-radius: 8px;
 }
